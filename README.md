@@ -1,4 +1,4 @@
 R_Learning
 ==========
 
-First Steps
+First Steps, from the tutorial
